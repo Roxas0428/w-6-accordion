@@ -32,7 +32,7 @@
   });
   const dummyAccordion = new Accordion({
     hookName: "#js-accordion",
-    tagName: "a",
+    tagName: "p",
   });
   const miniAccordion = new Accordion({
     hookName: "#js-accordion-mini",
